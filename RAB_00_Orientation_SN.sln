@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAB_00_Orientation", "RAB_00_Orientation\RAB_00_Orientation.csproj", "{5B626E90-335E-4010-B216-59FAC2B14D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B626E90-335E-4010-B216-59FAC2B14D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B626E90-335E-4010-B216-59FAC2B14D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B626E90-335E-4010-B216-59FAC2B14D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B626E90-335E-4010-B216-59FAC2B14D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16115798-0ED8-472F-A660-15AE92C91D86}
+	EndGlobalSection
+EndGlobal
