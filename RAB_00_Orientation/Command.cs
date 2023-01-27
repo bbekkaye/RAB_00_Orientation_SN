@@ -26,6 +26,7 @@ namespace RAB_00_Orientation
             Document doc = uidoc.Document;
 
             TaskDialog.Show("Test", "This is my command add-in");
+            TaskDialog.Show("Test", "This is a change I made to my add-in");
 
             return Result.Succeeded;
         }
